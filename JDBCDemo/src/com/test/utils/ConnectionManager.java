@@ -20,7 +20,7 @@ public class ConnectionManager {
 		String pwd="hr";
 		String query = "select * from departments";
 		String query1= "select first_name,salary,hire_date from employees where employee_id=101";
-		String query3 = "select * from employees";
+		String query4 = "select * from employees";
 		try
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");

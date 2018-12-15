@@ -1,6 +1,6 @@
 package com.lti.jdbc.model;
 
-public class Department {
+public class Department1 {
 private int department_id;
 private String department_name;
 private int location_id;
